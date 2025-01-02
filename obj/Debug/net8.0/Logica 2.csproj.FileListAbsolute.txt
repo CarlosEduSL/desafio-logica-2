@@ -1,0 +1,14 @@
+C:\DIO\Logica 2\bin\Debug\net8.0\Logica 2.exe
+C:\DIO\Logica 2\bin\Debug\net8.0\Logica 2.deps.json
+C:\DIO\Logica 2\bin\Debug\net8.0\Logica 2.runtimeconfig.json
+C:\DIO\Logica 2\bin\Debug\net8.0\Logica 2.dll
+C:\DIO\Logica 2\bin\Debug\net8.0\Logica 2.pdb
+C:\DIO\Logica 2\obj\Debug\net8.0\Logica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\Logica 2\obj\Debug\net8.0\Logica 2.AssemblyInfoInputs.cache
+C:\DIO\Logica 2\obj\Debug\net8.0\Logica 2.AssemblyInfo.cs
+C:\DIO\Logica 2\obj\Debug\net8.0\Logica 2.csproj.CoreCompileInputs.cache
+C:\DIO\Logica 2\obj\Debug\net8.0\Logica 2.dll
+C:\DIO\Logica 2\obj\Debug\net8.0\refint\Logica 2.dll
+C:\DIO\Logica 2\obj\Debug\net8.0\Logica 2.pdb
+C:\DIO\Logica 2\obj\Debug\net8.0\Logica 2.genruntimeconfig.cache
+C:\DIO\Logica 2\obj\Debug\net8.0\ref\Logica 2.dll
